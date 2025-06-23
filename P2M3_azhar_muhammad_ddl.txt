@@ -1,0 +1,28 @@
+
+--URL:
+https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales
+
+--DDL: Buat table postgres
+CREATE TABLE "table_m3" (
+    "Row_ID" INTEGER,
+    "Order_ID" VARCHAR,
+    "Order_Date" VARCHAR,
+    "Ship_Date" VARCHAR,
+    "Ship_Mode" VARCHAR,
+    "Customer_ID" VARCHAR,
+    "Customer_Name" VARCHAR,
+    "Segment" VARCHAR,
+    "Country" VARCHAR,
+    "City" VARCHAR,
+    "State" VARCHAR,
+    "Postal_Code" VARCHAR,
+    "Region" VARCHAR,
+    "Product_ID" VARCHAR,
+    "Category" VARCHAR,
+    "Sub_Category" VARCHAR,
+    "Product_Name" VARCHAR,
+    "Sales" NUMERIC
+);
+
+--DML: Insert datasets
+(import di table)
