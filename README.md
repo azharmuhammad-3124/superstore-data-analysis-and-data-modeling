@@ -9,7 +9,6 @@
 6. P2M3_azhar_muhammad_DAG_graph.png    - Graph DAG
 7. P2M3_azhar_muhammad_ddl.txt          - URL dataset dan syntax DDL
 8. P2M3_azhar_muhammad_GX.ipynb         - Great Expectation Validation
-9. conceptual.txt                       - Jawaban pertanya conceptual
 
 
 ## Problem Background
